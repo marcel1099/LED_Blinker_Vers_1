@@ -1,4 +1,4 @@
-#define grueneLED 3
+#define grueneLED 3 //grüne LED an Pin 3
 
 void setup() {
   digitalWrite (grueneLED, OUTPUT)
